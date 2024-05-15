@@ -1,1 +1,1 @@
-
+Bu proje, Windows Form Application ile geliştirilmiş bir yılı kapsayan bir takvimi içerir. Kullanıcılar bir hesap oluşturabilir ve giriş yapabilir. Giriş yaptıktan sonra, takvim açılır ve günlüğe metin ve resim kaydetmek için herhangi bir tarihe tıklayabilirsiniz. Arka plan resmi mevsime göre değişir ve kaydedilen günler değişmeden kalır. Bilgi eklenen günler işaretlenir. Kişiselleştirilmiş girişler bilgisayarda kaydedilir ve bu dosyalarda şifrelenir. Sadece kullanıcı bunlara erişebilir.
